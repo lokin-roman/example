@@ -10,3 +10,9 @@ body {
   background: #000000;
   color: #0080ff;
 }
+
+#timer {
+  background: #202020;
+  padding: 4px;
+  border: solid 1px #101010;
+}
